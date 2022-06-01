@@ -1,0 +1,49 @@
+{
+    "items": [
+        {
+            "name":"Lasagne",
+            "description":"A Beef Lasagne with Cheese.",
+            "cost":8
+        },
+        {
+            "name":"Beef Burger",
+            "description":"Gourmet Beef Burger with 3oz Patty, Caramlised Onions, Pickles, Lettuce, Jalepenos and a Special Home Made Chilli Sauce.",
+            "cost":6
+        },
+        {
+            "name":"Chicken Burger",
+            "description":"Fried Chicken Fillet Burger.",
+            "cost":8
+        },
+        {
+            "name":"Chips",
+            "description":"Small Portion of Fries",
+            "cost":3.50
+        },
+        {
+            "name":"Pizza",
+            "description":"Meat Feast Pizza with Chicken and Beef.",
+            "cost":12
+        },
+        {
+            "name":"Steak",
+            "description":"Beef Steak With Mushroom Sauce.",
+            "cost":18
+        },
+        {
+            "name":"Noodles",
+            "description":"Stir Fried Chicken Noodles.",
+            "cost":6
+        },
+        {
+            "name":"Fried Chicken",
+            "description":"Deep Fried Chicken.",
+            "cost":2.5
+        },
+        {
+            "name":"Grilled Wings",
+            "description":"A Portion of 4 Peri-Peri Wings.",
+            "cost":7
+        }
+    ]
+}
